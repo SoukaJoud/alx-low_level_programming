@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* print alphabet*/
 
 int main(void)
 {
