@@ -1,7 +1,10 @@
 #include "main.h"
 /**
  *_islower - check if c is lower
- * return 0 if C is lower and 1 otherwise
+ *
+ *@c: The character in ASCII code
+ *
+ * Return 0 if C is lower and 1 otherwise
  */
 
 int _islower(int c)
